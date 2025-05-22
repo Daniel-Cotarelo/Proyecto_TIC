@@ -1,0 +1,14 @@
+# Imagen base
+FROM openjdk:21-slim
+
+# Crear carpeta de trabajo dentro del contenedor
+WORKDIR /app
+
+# Copiar el archivo desde el contexto local al contenedor
+COPY Tetris.java .
+
+# Compilar el archivo Java
+RUN javac Tetris.java
+
+# Ejecutar el juego
+CMD ["java", "Tetris"]
