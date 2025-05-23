@@ -252,7 +252,7 @@ Docker
 
 VirtualBox (con Linux guest si aplica)
 
-pip
+pip (Gestor de paquetes de Python)
 ```
 
 ---
