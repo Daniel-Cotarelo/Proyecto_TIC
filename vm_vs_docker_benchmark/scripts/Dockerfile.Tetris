@@ -11,4 +11,4 @@ COPY Tetris.java .
 RUN javac Tetris.java
 
 # Ejecutar el juego
-CMD ["java", "Tetris"]
+CMD ["java", "Tetris", "sleep 30"]
