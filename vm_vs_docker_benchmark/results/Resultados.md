@@ -15,7 +15,7 @@ Este documento presenta las mediciones y observaciones realizadas durante la eje
 
 ### Captura de pantalla
 
-![Uso de recursos en VM](./results/captura1.png)  
+![Uso de recursos en VM](captura1.png)  
 > Captura del monitor htop mostrando el consumo de CPU y memoria RAM mientras se ejecuta el juego Java en Ubuntu.  
 > Se observa el proceso java activo con uso moderado de recursos.
 
@@ -23,7 +23,7 @@ Este documento presenta las mediciones y observaciones realizadas durante la eje
 
 ### Resultado del juego
 
-![Resultado del juego en VM](./results/captura2.png)  
+!![Resultado juego en VM](captura2.png)  
 > Ejecución del juego Tetris desde terminal en la máquina virtual Ubuntu.  
 > El juego se ejecuta correctamente solicitando entrada del usuario.
 
@@ -38,7 +38,7 @@ Este documento presenta las mediciones y observaciones realizadas durante la eje
 
 ### Captura de pantalla
 
-![Uso de recursos en Docker](./results/captura3.png)  
+![Uso de recursos en Docker](captura3.png)   
 > Monitorización del contenedor Docker mediante el comando docker stats.  
 > Se aprecia un consumo muy bajo de CPU y memoria durante la ejecución del contenedor interactivo.
 
@@ -46,7 +46,7 @@ Este documento presenta las mediciones y observaciones realizadas durante la eje
 
 ### Resultado del juego (Docker)
 
-![Resultado del juego en Docker](./results/captura4.png)  
+![Resultado en Docker](captura4.png) 
 > Ejecución del juego Tetris dentro del contenedor Docker.  
 > El tablero del juego se despliega correctamente y acepta entrada por teclado.
 
