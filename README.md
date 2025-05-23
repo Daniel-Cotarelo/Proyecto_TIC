@@ -1,4 +1,4 @@
-# ⚽ Proyecto Benchmark: Máquina Virtual vs Docker
+# Proyecto Benchmark: Máquina Virtual vs Docker
 
 Este proyecto evalúa y compara el rendimiento de una aplicación Java (`Tetris.java`) ejecutada en dos entornos distintos: una máquina virtual (VM) Ubuntu y un contenedor Docker. La aplicación simula un partido de fútbol desde consola.
 
