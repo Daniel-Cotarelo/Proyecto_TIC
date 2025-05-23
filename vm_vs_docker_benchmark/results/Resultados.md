@@ -23,7 +23,7 @@ Este documento presenta las mediciones y observaciones realizadas durante la eje
 
 ### Resultado del juego
 
-!![Resultado juego en VM](captura2.png)  
+![Resultado juego en VM](captura2.png)  
 > Ejecución del juego Tetris desde terminal en la máquina virtual Ubuntu.  
 > El juego se ejecuta correctamente solicitando entrada del usuario.
 
@@ -69,6 +69,6 @@ Docker resultó ser un entorno más ligero y eficiente para ejecutar el juego Ja
 
 ## 6. Referencias
 
-- Repositorio del proyecto: [https://github.com/Daniel-Cotarelo/ProyectoTIC](https://github.com/Daniel-Cotarelo/ProyectoTIC)  
+- Repositorio del proyecto: [https://github.com/Daniel-Cotarelo/Proyecto_TIC](https://github.com/Daniel-Cotarelo/ProyectoTIC)  
 - Documentación de Docker: [https://docs.docker.com/](https://docs.docker.com/)  
 - Sitio oficial de Ubuntu: [https://ubuntu.com/](https://ubuntu.com/)
